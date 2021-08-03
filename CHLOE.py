@@ -96,9 +96,8 @@ logo = """
 \033[1;93m ☞ Welcome to Nigerian Anonymous Hackers 
 \033[1;93m ☞ Login with New Account 
 \033[1;93m ☞ CP Acount will Open After 2 Days  
-\033[1;93m ☞ Any Problem U Can Contact Me Via WhatsApp: +2347085231817 ┈
-\033[1;93m ☞ 👿 ●▬▬▬▬●Hacker-Chloe☠️●▬▬▬▬●☠️☠️ 👿                         
-
+\033[1;93m ☞ you Can Contact Me Via WhatsApp:+2347085231817                        
+\033[1;92m ☞  ................Chloe-Hacker.................
             Turn on airplane mode before use
 
 \033[1;97m-----------------------------------------------
